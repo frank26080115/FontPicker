@@ -4,6 +4,7 @@ FontPicker
 This app allows you to type in a phrase, and preview it with many fonts at once. The fonts can be filtered using keywords and also can be taken from any folder.
 
 Please see screenshot.png for a preview
+![](https://raw.githubusercontent.com/frank26080115/FontPicker/master/screenshot.png)
 
 A downloadable EXE is available in the Release folder
 
